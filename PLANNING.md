@@ -5,12 +5,12 @@
 ### Task 1: Project Setup & Basic UI
 - [x] Set up React project with Vite, TypeScript, and Tailwind CSS.
 - [x] Create basic layout with a header and a main content area.
-- [ ] Design a simple color scheme and typography.
+- [x] Design a simple color scheme and typography.
 
 ### Task 2: User Authentication
-- [ ] Create Sign Up and Sign In pages.
-- [ ] Integrate Supabase for user authentication.
-- [ ] Implement protected routes for authenticated users.
+- [x] Create Sign Up and Sign In pages.
+- [x] Integrate Supabase for user authentication.
+- [x] Implement protected routes for authenticated users.
 
 ### Task 3: Car Selection
 - [ ] Create a car selection screen.
