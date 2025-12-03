@@ -48,7 +48,7 @@ const Auth = () => {
       } else {
         const { error } = await supabase.auth.signInWithPassword(values);
         if (error) throw error;
-        navigate("/");
+        navigate("/dashboard");
       }
     } catch (error: any) {
       setError(error.message);
